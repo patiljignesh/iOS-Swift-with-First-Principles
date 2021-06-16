@@ -1,0 +1,8 @@
+- Screen's position starts at the top left corner always 
+- Imagine the screen as a graph
+- Graph always start at the top left corner with x = 0 & y = 0
+- Any elements position also start at the top left corner
+- x position of any elements will be from top left, meaning 0 to the position.
+  - example: x = 10 then it will be 10 positin to the right of 0 
+- y position of any elements will be from top left, meaning 0 to the position.
+ - example: y = 10 then it will be 10 positin to the bottom of 0
