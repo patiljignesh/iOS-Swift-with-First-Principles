@@ -5,5 +5,5 @@ Topics
 2. UI Element Positioning
 
 Snippet of Info:
-IBOutlet - Interface Builder Outlet 
-Who.What = Value
+1. IBOutlet - Interface Builder Outlet 
+2. Who.What = Value
