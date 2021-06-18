@@ -3,7 +3,14 @@
 Topics 
 1. Auto layout  
   1.1 It's about setting rules for the UI elements
-  1.2 
+  1.2 Size Classes
+  1.3 Orientation
+  1.4 Applying Constraints
+  1.5 Alignment 
+  1.6 Pinning
+  1.7 Using Containers
+  1.8 StackViews
+    1.8.1 View embeded with other views
 
 2. UI Element Positioning
 
