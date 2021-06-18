@@ -14,6 +14,9 @@
 9. StackViews
    - View embeded with other views
 
+###### DispatchQueue
+- An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
+
 ###### UI Element Positioning
 
 Snippet of Info:
