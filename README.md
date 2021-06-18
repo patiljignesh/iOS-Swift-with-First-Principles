@@ -23,3 +23,4 @@ Snippet of Info:
 4. IBAction = Actions are from Design to Code
 5. Random Number = **Int.random(in: 0...5)**
 6. Random Element in an Array = arrayVar.randomElement()
+7. func myFunction(parameter: DataType) { ... }
