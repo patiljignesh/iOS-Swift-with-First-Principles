@@ -1,7 +1,8 @@
 # iOS-Swift-with-First-Principles
 
-Topics 
-Auto layout  
+## Topics
+
+###### Auto layout 
 1. It's about setting rules for the UI elements
 2. Size Classes
 3. Orientation
@@ -10,9 +11,9 @@ Auto layout
 6. Pinning
 7. Using Containers
 8. StackViews
-  8.1. View embeded with other views
+   - View embeded with other views
 
-2. UI Element Positioning
+###### UI Element Positioning
 
 Snippet of Info:
 1. IBOutlet - Interface Builder Outlet 
