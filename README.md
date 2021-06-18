@@ -5,12 +5,13 @@
 ###### Auto layout 
 1. It's about setting rules for the UI elements
 2. Size Classes
-3. Orientation
-4. Applying Constraints
-5. Alignment
-6. Pinning
-7. Using Containers
-8. StackViews
+   - Size Classes are at the bottom where all the device at listed   
+4. Orientation
+5. Applying Constraints
+6. Alignment
+7. Pinning
+8. Using Containers
+9. StackViews
    - View embeded with other views
 
 ###### UI Element Positioning
