@@ -1,9 +1,8 @@
 # iOS-Swift-with-First-Principles
 
 Topics 
-1. Auto layout 
-  
-  1.1 It's about setting rules for the UI elements 
+1. Auto layout  
+  1.1 It's about setting rules for the UI elements
   1.2 
 
 2. UI Element Positioning
