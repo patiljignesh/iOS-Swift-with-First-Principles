@@ -23,6 +23,7 @@
 ###### Defining Structure
 - struct myStruct {...}
 - Call by: MyStruct()
+- Has to start with a Capital Letter since we are defining our own Data Type
 
 Snippet of Info:
 1. IBOutlet - Interface Builder Outlet 
