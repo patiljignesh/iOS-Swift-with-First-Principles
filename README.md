@@ -32,6 +32,8 @@ struct Town {
    var resources = ["Grain" : 100, "Ore" : 42, "Wool" : 75 ]
 }
 ```
+- Initialise by: 
+` var myTown = Town()`
 
 Snippet of Info:
 
