@@ -24,6 +24,11 @@
 - struct MyStruct {...}
 - Call by: MyStruct()
 - Has to start with a Capital Letter since we are defining our own Data Type
+- Example: struct Town {
+   let name: "Paris Land"
+   var citizen = ["PersonOne","PersonTwo","PersonThree"]
+   var resources = ["Grain" : 100, "Ore" : 42, "Wool" : 75 ]
+}
 
 Snippet of Info:
 1. IBOutlet - Interface Builder Outlet 
