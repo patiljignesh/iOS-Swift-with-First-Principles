@@ -20,6 +20,10 @@
 ###### Design Pattern: MVC
 ###### UI Element Positioning
 
+###### Defining Structure
+- struct myStruct {...}
+- Call by: MyStruct()
+
 Snippet of Info:
 1. IBOutlet - Interface Builder Outlet 
 2. Who.What = Value
