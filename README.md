@@ -35,6 +35,12 @@ struct Town {
 - Initialise by: 
 ` var myTown = Town()`
 
+- Access the elements of Struct:
+``` 
+print(myTown.citizen)
+_______
+["PersonOne","PersonTwo","PersonThree"]
+```
 Snippet of Info:
 
 ```
