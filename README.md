@@ -21,7 +21,7 @@
 ###### UI Element Positioning
 
 ###### Defining Structure
-- struct myStruct {...}
+- struct MyStruct {...}
 - Call by: MyStruct()
 - Has to start with a Capital Letter since we are defining our own Data Type
 
