@@ -1,5 +1,5 @@
 ###### Defining Structure
-` struct MyStruct {...} `
+- ` struct MyStruct {...} `
 - Call/Initialise by: ` MyStruct()`
 - Has to start with a Capital Letter since we are defining our own Data Type
 - Struct can have properties and it can have behaviours 
