@@ -22,7 +22,7 @@
 
 ###### Defining Structure
 - struct MyStruct {...}
-- Call by: MyStruct()
+- Call/Initialise by: MyStruct()
 - Has to start with a Capital Letter since we are defining our own Data Type
 - Example: struct Town {
    let name: "Paris Land"
