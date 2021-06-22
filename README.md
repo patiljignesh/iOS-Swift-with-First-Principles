@@ -41,6 +41,10 @@ print(myTown.citizen)
 _______RESULT_______
 ["PersonOne","PersonTwo","PersonThree"]
 ```
+- Append Elements:
+`myTown.citizen.append("PersonFour")`
+
+
 Snippet of Info:
 
 ```
