@@ -50,6 +50,8 @@ _______RESULT_______
 - Append Elements:
 `myTown.citizen.append("PersonFour")`
 
+- Call Method in Struct:
+` myTown.doSomething() `
 
 Snippet of Info:
 
