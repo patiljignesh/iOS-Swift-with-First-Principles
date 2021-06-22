@@ -38,7 +38,7 @@ struct Town {
 - Access the elements of Struct:
 ``` 
 print(myTown.citizen)
-_______
+_______RESULT_______
 ["PersonOne","PersonTwo","PersonThree"]
 ```
 Snippet of Info:
