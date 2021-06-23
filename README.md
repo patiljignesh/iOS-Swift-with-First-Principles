@@ -13,6 +13,12 @@
 8. Using Containers
 9. StackViews
    - View embeded with other views
+10. MVC - Design Pattern
+    - Model: Logic & Data
+    - View: User Interface 
+    - Controller: Mediator
+    - View and Model will never talk to each other
+    - View and Model will always use Controller to communicate with either one
 
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
