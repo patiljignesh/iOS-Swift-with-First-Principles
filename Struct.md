@@ -40,8 +40,19 @@ struct Town {
    var citizen = [String]
    var resources = [String : Int ]
    
-   init(townName: String, people: [String], )
+   init(townName: String, people: [String], stats: [String: Int]) {
+      name = townName
+      citizen = people
+      resources = stats
+   }
+   
    func doSomething() {
       print("Defences increased!")
    }
 ```
+- To initialise another town:
+ ` var anotherTown = Town(townName: "Somewhere", people: ["John Doe"], stats: ["Cards" : 40])`
+
+- Access the `anotherTown`
+`anotherTown.citizen.append("Wilson")`
+`print(anotherTown.citizen)`
