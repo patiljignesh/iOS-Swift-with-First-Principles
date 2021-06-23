@@ -57,6 +57,9 @@ struct Town {
 
 ```
 anotherTown.citizen.append("Wilson")
+
 print(anotherTown.citizen)
+_____RESULT______
+["John Doe","Wilson"]
 
 ```
