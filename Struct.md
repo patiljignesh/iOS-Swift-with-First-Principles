@@ -5,6 +5,7 @@
 - Struct can have properties and it can have behaviours 
   - Properties: ` let name, var citizen, var resources `
   - Behaviour: ` func doSomething() {...} `
+- When creating a struct file, keep the file name same as the struct
 - Example:
 
 ```
