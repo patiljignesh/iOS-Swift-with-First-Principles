@@ -55,5 +55,5 @@ struct Town {
 
 - Access the `anotherTown`:
 
-`anotherTown.citizen.append("Wilson")`
-`print(anotherTown.citizen)`
+```anotherTown.citizen.append("Wilson")
+print(anotherTown.citizen)```
