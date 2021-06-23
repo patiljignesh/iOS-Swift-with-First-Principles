@@ -32,3 +32,16 @@ _______RESULT_______
 
 - Call Method in Struct:
 ` myTown.doSomething() `
+
+###### Creating a struct blueprint 
+```
+struct Town {
+   let name: String
+   var citizen = [String]
+   var resources = [String : Int ]
+   
+   init(townName: String, people: [String], )
+   func doSomething() {
+      print("Defences increased!")
+   }
+```
