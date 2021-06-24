@@ -6,6 +6,7 @@
   - Properties: ` let name, var citizen, var resources `
   - Behaviour: ` func doSomething() {...} `
 - When creating a struct file, keep the file name same as the struct
+- Method is when a function like is place in a struct. E.g. doSomething() 
 - Example:
 
 ```
