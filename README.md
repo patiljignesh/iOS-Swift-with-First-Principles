@@ -25,6 +25,8 @@
     - View and Model will always use Controller to communicate with either one
 11. Mutating Methods within Struct
     - Enable changes to the variable within the Struct when invoking 
+    - "The problem is that when you create the struct Swift has no idea whether you will use it with constants or variables, so by default it takes the safe approach: Swift won’t let you write methods that change properties unless you specifically request it." ~ HackingWithSwift
+    
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
