@@ -23,7 +23,8 @@
       - Modifies the View    
     - View and Model will never talk to each other
     - View and Model will always use Controller to communicate with either one
-
+11. Mutating Methods within Struct
+    - Enable changes to the variable within the Struct when invoking 
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
