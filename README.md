@@ -28,6 +28,9 @@
     - "The problem is that when you create the struct Swift has no idea whether you will use it with constants or variables, so by default it takes the safe approach: Swift won’t let you write methods that change properties unless you specifically request it." ~ HackingWithSwift
 12. Setting current Button Title via code:
 `button.setTitle("my text here", forState: .normal)`
+13. Rounding off a Float or other value:
+`print(String(format: "%.2f", sender.value))`
+
 
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
