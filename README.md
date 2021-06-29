@@ -43,6 +43,17 @@
     - Ref Reading: [https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html] 
 
 15. `CGRect` : Core Graphics Rectangle 
+
+16. Adding to View by code/ Programatically:
+```
+// Inside viewDidLoad()
+view.backgroundColor = .red        
+let label = UILabel()
+label.text = "Hello Second View controller"
+label.frame = CGRect(x: 0, y: 0, width: 100, height: 50)
+view.addSubview(label)
+```
+
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
