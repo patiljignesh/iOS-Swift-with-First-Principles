@@ -13,6 +13,7 @@
 8. Using Containers
 9. StackViews
    - View embeded with other views
+
 10. MVC - Design Pattern
     - Model: Logic & Data
       - Sends data to the Controller    
@@ -23,13 +24,17 @@
       - Modifies the View    
     - View and Model will never talk to each other
     - View and Model will always use Controller to communicate with either one
+
 11. Mutating Methods within Struct
     - Enable changes to the variable within the Struct when invoking 
     - "The problem is that when you create the struct Swift has no idea whether you will use it with constants or variables, so by default it takes the safe approach: Swift won’t let you write methods that change properties unless you specifically request it." ~ HackingWithSwift
+
 12. Setting current Button Title via code:
 `button.setTitle("my text here", forState: .normal)`
+
 13. Rounding off a Float or other value:
 `print(String(format: "%.2f", sender.value))`
+
 14. Struct vs Classes
     - Structs are passed around by Value
     - Classes are passed around by Reference
@@ -37,6 +42,7 @@
     - Classes have ingeritance 
     - Ref Reading: [https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html] 
 
+15. `CGRect` : Core Graphics Rectangle 
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
