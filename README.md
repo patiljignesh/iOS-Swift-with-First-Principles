@@ -53,6 +53,8 @@ label.text = "Hello Second View controller"
 label.frame = CGRect(x: 0, y: 0, width: 100, height: 50)
 view.addSubview(label)
 ```
+17. Downcasting
+`let destinationVC = segue.destination as! ResultViewController`
 
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
