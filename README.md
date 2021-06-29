@@ -30,8 +30,12 @@
 `button.setTitle("my text here", forState: .normal)`
 13. Rounding off a Float or other value:
 `print(String(format: "%.2f", sender.value))`
-14. Structs are passed around by Value
-15. Classes are passed around by Reference 
+14. Struct vs Classes
+    - Structs are passed around by Value
+    - Classes are passed around by Reference
+    - Structs are immutable 
+    - Classes have ingeritance 
+    - Ref Reading: [https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html] 
 
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
