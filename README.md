@@ -30,7 +30,8 @@
 `button.setTitle("my text here", forState: .normal)`
 13. Rounding off a Float or other value:
 `print(String(format: "%.2f", sender.value))`
-
+14. Structs are passed around by Value
+15. Classes are passed around by Reference 
 
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
