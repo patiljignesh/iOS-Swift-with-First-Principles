@@ -20,7 +20,7 @@ if let safeOptional = optional {
 }
 ```
 
-4.  Nil Coalescing Operator
+4.  Nil Coalescing Operator: This would be the preferred way, when possible 
 
 ```
 optional ?? defaultValue
