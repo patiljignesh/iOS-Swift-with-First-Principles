@@ -56,6 +56,10 @@ view.addSubview(label)
 17. Downcasting
 `let destinationVC = segue.destination as! ResultViewController`
 
+18. String 
+`let str = String(format: "%.2f", 1.2334)`
+`RESULT: 1.23`
+
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
