@@ -1,13 +1,19 @@
 ```
 class ChatLoginVC: UIViewController {
+ 
  override func viewDidLoad() {
- super.viewDidLoad()
- //We make a call to our keyboard handling function as soon as the view is loaded.
- initializeHideKeyboard()
+  super.viewDidLoad()
+  
+  //We make a call to our keyboard handling function as soon as the view is loaded.
+  initializeHideKeyboard()
+ 
  }
- }
- extension ChatVC {
+}
+ 
+extension ChatVC {
+ 
  func initializeHideKeyboard(){
+ 
  //Declare a Tap Gesture Recognizer which will trigger our dismissMyKeyboard() function
  let tap: UITapGestureRecognizer = UITapGestureRecognizer(
  target: self,
