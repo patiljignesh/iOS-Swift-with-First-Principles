@@ -60,6 +60,18 @@ view.addSubview(label)
 `let str = String(format: "%.2f", 1.2334)`
 `RESULT: 1.23`
 
+19. UIViewController Nagivation:
+```
+override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+    if segue.identifier == "MySegueId" {
+        if let nextViewController = segue.destination as? NextViewController {
+                nextViewController.valueOfxyz = "XYZ" //Or pass any values
+                nextViewController.valueOf123 = 123
+        }
+    }
+}
+```
+
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
