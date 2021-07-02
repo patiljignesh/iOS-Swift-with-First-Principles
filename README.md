@@ -71,6 +71,10 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
     }
 }
 ```
+20. Scalar Images vs Vector Images
+
+![rastervsvector](https://user-images.githubusercontent.com/3880915/124241088-bad42f80-db1b-11eb-9bd8-4c55d4d0326b.png)
+
 
 ###### DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
