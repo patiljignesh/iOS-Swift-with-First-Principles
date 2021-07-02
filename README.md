@@ -77,6 +77,9 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 
 21. Dismiss the keyboard: `searchTextField.endEditing(true)`
 
+22. The Delegate Design Pattern 
+
+
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
