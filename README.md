@@ -75,14 +75,15 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 
 ![rastervsvector](https://user-images.githubusercontent.com/3880915/124241088-bad42f80-db1b-11eb-9bd8-4c55d4d0326b.png)
 
+21. Dismiss the keyboard: `searchTextField.endEditing(true)`
 
-###### DispatchQueue
+## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
-###### Design Pattern: MVC
-###### UI Element Positioning
+## Design Pattern: MVC
+## UI Element Positioning
 
-###### Defining Structure
+### Defining Structure
 
 Snippet of Info:
 
