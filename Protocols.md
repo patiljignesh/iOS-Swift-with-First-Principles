@@ -4,10 +4,9 @@
 -
 
 1. Defining the Protocols
+- Name of the protocol always start with a Capital Letter
 
 ```
-// Name always start in Capital Letter
-
 protocol MyProtocol {
   // Define requirements 
 }
