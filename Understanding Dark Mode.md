@@ -3,4 +3,4 @@
 2. More Info on Dark Mode: [https://developer.apple.com/documentation/uikit/appearance_customization/supporting_dark_mode_in_your_interface]
 3. Shorcuts: Switch iPhone Simulator to Dark mode while you inside another app on the simulator go to.
 
-- Features => Toggle Appearance and you can also by default shortcut on your keyboard ** CMD+SHIFT+A **
+- Features => Toggle Appearance and you can also by default shortcut on your keyboard **CMD+SHIFT+A**
