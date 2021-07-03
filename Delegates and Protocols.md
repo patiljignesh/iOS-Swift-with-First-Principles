@@ -1,3 +1,12 @@
+# Communication Patterns:
+###### There are two ways two views can communicate with each other.
+
+## Notification and Observers
+###### Relationship is: 1 to Many
+
+## Deligates and Protocols 
+###### Relationship is: 1 to 1
+
 ## What are Protocols?
 
 - It is like having a certification 
