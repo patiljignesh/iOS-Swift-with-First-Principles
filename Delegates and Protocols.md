@@ -7,6 +7,9 @@
 ## Delegates and Protocols 
 ###### Relationship is: 1 to 1
 
+## The Delegate Design Pattern 
+It uses Protocol
+
 ## What are Protocols?
 
 - It is like having a certification 
