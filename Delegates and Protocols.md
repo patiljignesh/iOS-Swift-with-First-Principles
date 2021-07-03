@@ -4,7 +4,7 @@
 ## Notification and Observers
 ###### Relationship is: 1 to Many
 
-## Deligates and Protocols 
+## Delegates and Protocols 
 ###### Relationship is: 1 to 1
 
 ## What are Protocols?
