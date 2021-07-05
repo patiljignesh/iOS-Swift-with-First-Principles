@@ -9,6 +9,7 @@
 
 ## The Delegate Design Pattern 
 It uses Protocol
+[More about Protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html)
 
 ## What are Protocols?
 
