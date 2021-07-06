@@ -19,6 +19,8 @@ calculator(n1: 2, n2: 3, operation: multiply)
 
 ## Closure way
 
+###### Example 1
+
 ```
 func calculator(n1: Int, n2: Int, operation: (Int, Int) -> Int) -> {
   return operation(n1, n2)
@@ -26,4 +28,13 @@ func calculator(n1: Int, n2: Int, operation: (Int, Int) -> Int) -> {
 
 let result = calculator(n1: 2, n2: 3) {$01 * $1})
 print(result)
+```
+
+###### Example 2
+
+```
+// Add one to each element 
+let array = [6, 2, 3, 9, 4, 1]
+
+array.map({$0 + 1})
 ```
