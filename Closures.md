@@ -38,3 +38,13 @@ let array = [6, 2, 3, 9, 4, 1]
 
 array.map({$0 + 1})
 ```
+
+## Closure Expression Syntax
+###### Closure expression syntax has the following general form:
+
+```
+{ (parameters) -> return_type in
+    statements
+}
+
+```
