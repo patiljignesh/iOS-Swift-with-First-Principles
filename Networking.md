@@ -8,4 +8,9 @@
 ## Step 3: Give URLSession a task
 - Creates a task that retrieves the contents of the specified URL, then calls a handler upon completion.
 ## Step 4: Start a task
+- Newly-initialized tasks begin in a suspended state, so you need to call this method to start the task.
 
+```
+task.resume()
+
+````
