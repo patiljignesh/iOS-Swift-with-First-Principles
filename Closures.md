@@ -2,6 +2,8 @@
 # Clousures
 - Functions without a name
 - Anonymous functions 
+- [Ref to Map function](https://developer.apple.com/documentation/swift/array/3017522-map)
+- [Ref to Clousures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
 
 ## Typical way of passing functions around
 
