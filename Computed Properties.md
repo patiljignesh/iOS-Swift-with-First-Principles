@@ -9,6 +9,15 @@ var aProperty: Int { // 2. It will set this property once the computation has be
 ```
 
 ###### Example 2
+
+```
+var temperatureString: String {
+    return String(format: "%.1f", 22.33) // Output: "22.3"
+}
+    
+```
+
+###### Example 3
 ```
     var conditionName: String {
         switch conditionId {
