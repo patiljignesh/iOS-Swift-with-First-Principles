@@ -1,5 +1,14 @@
 # Computed Properties
 
+###### Example 1
+
+```
+var aProperty: Int { // 2. It will set this property once the computation has been completed. 
+    return 2 + 1 // 1. it will compute
+}
+```
+
+###### Example 2
 ```
     var conditionName: String {
         switch conditionId {
