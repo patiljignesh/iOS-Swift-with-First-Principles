@@ -84,7 +84,9 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 - Defining the Function:
 
 ```
+   // External Parameter
    // name: this parameter is referenced when calling the function
+   // Intername Parameter
    // eman: this parameter is referenced when calling within the function
    func myFunc(name eman: Type) {
       print(eman)
