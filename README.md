@@ -80,7 +80,15 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 22. Type Alias: 
 - Example: Codable is a type alias for the Encodable and Decodable protocols. When you use Codable as a type or a generic constraint, it matches any type that conforms to both protocols.
 
-23. 
+23. Defining Extension
+```
+extension SomeType {
+   // Add new functionality
+   // It could extention to a class, struct, protocol
+}
+
+```
+
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
