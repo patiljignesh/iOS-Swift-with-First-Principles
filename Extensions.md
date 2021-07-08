@@ -18,3 +18,4 @@ button.makeCircular()
 ```
 
 ## Extension cab applied to prototocols as well
+- Allows the protocol methods to be optional and not as required. 
