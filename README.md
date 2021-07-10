@@ -94,6 +94,8 @@ extension SomeType {
 
 25. [Control flow](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
 
+26. Localized is referenced to local language that the user has selected. 
+Eg. localizedDescription is a description which will be displayed in user's local device language which has been set by the user.
 
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
