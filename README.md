@@ -102,7 +102,7 @@ Eg. localizedDescription is a description which will be displayed in user's loca
    - [Quora: what does [weak self] mean in a closure?](https://www.quora.com/What-does-weak-self-mean-in-a-Swift-Closure)
    - [weak self and unowned self explained by Antoine Van Der Lee](https://www.avanderlee.com/swift/weak-self/)
   
-28. [Type Properties vs Instant Properties](https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html)
+28. [Type Properties vs Instant Properties](https://docs.swift.org/swift-book/LanguageGuide/Properties.html#ID264)
 
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
