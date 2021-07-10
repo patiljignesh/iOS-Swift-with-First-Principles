@@ -4,6 +4,7 @@
 - Anonymous functions 
 - [Ref to Map function](https://developer.apple.com/documentation/swift/array/3017522-map)
 - [Ref to Clousures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
+- [More Details](https://learnappmaking.com/closures-swift-how-to/)
 
 ## Typical way of passing functions around
 
