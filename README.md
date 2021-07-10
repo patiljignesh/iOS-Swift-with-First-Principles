@@ -105,6 +105,15 @@ Eg. localizedDescription is a description which will be displayed in user's loca
 28. [Type Properties vs Instant Properties](https://docs.swift.org/swift-book/LanguageGuide/Properties.html#ID264)
 - > There will only ever be one copy of these properties, no matter how many instances of that type you create. These kinds of properties are called type properties.
 
+29. `is` is used for Type Checking
+
+30. `as!` is used for Forced Downcast
+
+31. `as?` is used for Safe Downcast 
+
+32. `as` is used for Upcasting. From subclass to superclass.
+ 
+
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
