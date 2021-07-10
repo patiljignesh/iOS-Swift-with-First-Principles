@@ -97,6 +97,11 @@ extension SomeType {
 26. Localized is referenced to local language that the user has selected. 
 Eg. localizedDescription is a description which will be displayed in user's local device language which has been set by the user.
 
+27. [weak self]
+   - [Besher Al Maleh on [weak self]](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
+   - [Quora: what does [weak self] mean in a closure?](https://www.quora.com/What-does-weak-self-mean-in-a-Swift-Closure)
+   - [weak self and unowned self explained by Antoine Van Der Lee](https://www.avanderlee.com/swift/weak-self/)
+  
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
