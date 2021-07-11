@@ -113,6 +113,8 @@ Eg. localizedDescription is a description which will be displayed in user's loca
 
 32. `as` is used for Upcasting. From subclass to superclass.
  
+33. [Understanding App Lifecyle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
+
 
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
