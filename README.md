@@ -115,6 +115,7 @@ Eg. localizedDescription is a description which will be displayed in user's loca
  
 33. [Understanding App Lifecyle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
 
+34. Local Data Persistance using User Defaults, Core Data and Realm
 
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
