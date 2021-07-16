@@ -117,6 +117,9 @@ Eg. localizedDescription is a description which will be displayed in user's loca
 
 34. Local Data Persistance using User Defaults, Core Data and Realm
 
+35. [Core Data and more]()
+
+
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
