@@ -1,5 +1,6 @@
 # Singleton
 
+[More in detail](https://developer.apple.com/documentation/swift/cocoa_design_patterns/managing_a_shared_resource_using_a_singleton/)
 > There is only one copy of it that can be shared across all the classes and objects. 
 
 ```
