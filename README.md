@@ -121,7 +121,14 @@ Eg. localizedDescription is a description which will be displayed in user's loca
 
 36. Ternary Operator
 
-`value = condition ? valueIfTrue : valueIfFalse`
+```
+value = condition ? valueIfTrue : valueIfFalse`
+
+Example:
+
+cell.accessoryType = item.done == true ? .checkmark : .none
+
+```
 
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
