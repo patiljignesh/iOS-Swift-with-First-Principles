@@ -119,6 +119,9 @@ Eg. localizedDescription is a description which will be displayed in user's loca
 
 35. [Core Data and more]()
 
+36. Ternary Operator
+
+`value = condition ? valueIfTrue : valueIfFalse`
 
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
