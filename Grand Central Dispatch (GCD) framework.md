@@ -21,3 +21,12 @@ DispatchQueue.main.async {
 }
 
 ```
+
+- This is to run the code in the background
+
+```
+DispatchQueue.global(qos: .background).async {
+  //Code to run on the background.
+}
+
+```
