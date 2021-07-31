@@ -7,7 +7,7 @@
   - Serial Queue : Tasks in a queue are performed in order one at a time. 
   - Concurrent Queue  : All tasks begins in order but completion order is dependent on the tasks.
 - By Default, every App gets:
-  - 1 Serial Queue : Main queue
+  - 1 Serial Queue = 1 Thread only : Main queue
   - 4 Concurrent Queue: Background queue
   
 > Main Thread: Keep it clean and speedy since UI runs in this thread.
