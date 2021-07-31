@@ -10,7 +10,7 @@
   - 1 Serial Queue = 1 Thread only : Main queue
   - 4 Concurrent Queue: Background queue
   
-> Main Thread: Keep it clean and speedy since UI runs in this thread.
+> Main Thread: Keep it clean and speedy since UI runs in this thread. Also UIKit is tied to the Main thread.
 
 ## DispatchQueue
 - This bring the loading of data from the background(Assume JSON from the internet) to the main thread by dispatching queue to the main thread. This is to make changes to the UI.
