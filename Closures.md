@@ -1,5 +1,6 @@
 
 # Clousures
+- Clousures are reference types
 - Functions without a name
 - Anonymous functions 
 - [Ref to Map function](https://developer.apple.com/documentation/swift/array/3017522-map)
