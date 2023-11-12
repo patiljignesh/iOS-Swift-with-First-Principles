@@ -130,6 +130,10 @@ cell.accessoryType = item.done == true ? .checkmark : .none
 
 ```
 
+37. Concurrency and Asynchronous Programming:
+   - **Swift Concurrency:** With the introduction of async/await in Swift 5.5, handling asynchronous tasks has become more straightforward.
+   - **Combine:** Apple's framework for handling asynchronous events with a declarative approach, which can be beneficial in networking scenarios
+
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
 
