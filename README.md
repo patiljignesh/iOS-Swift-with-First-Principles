@@ -9,7 +9,7 @@
 4. Orientation
 5. Applying Constraints
 6. Alignment
-7. [Pinning](https://github.com/SSL%2520Pinning.md)
+7. [SSL Pinning](https://github.com/SSL%2520Pinning.md)
 8. Using Containers
 9. StackViews
    - View embeded with other views
