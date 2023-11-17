@@ -201,3 +201,12 @@ class UserViewController: UIViewController {
     }
 }
 ```
+
+In this simple example:
+
+	•	The User struct represents the Model.
+	•	UserViewModel prepares and formats the data for display.
+	•	UserViewController displays the data.
+
+
+
