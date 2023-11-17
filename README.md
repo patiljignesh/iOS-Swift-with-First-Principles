@@ -153,3 +153,51 @@ Snippet of Info:
 6. Random Element in an ``` Array = arrayVar.randomElement()
 7. func myFunction(parameter: DataType) { ... } 
 ```
+
+## Design Pattwr : MVVM 
+
+MVVM (Model-View-ViewModel) is a design pattern used in software development for structuring the code in a way that separates the logic of the user interface from the business logic.
+
+	1.	Model: This represents the data and the business logic of your application. It’s where your data processing and network requests happen. The model is independent of the user interface.
+	2.	ViewModel: This layer acts as an intermediary between the Model and the View. It receives data from the Model, processes it (e.g., formatting), and prepares observable outputs that can be bound to the View. The ViewModel doesn’t directly reference the View.
+	3.	View: This is the user interface of your application. In iOS, it’s typically composed of view controllers, views, and storyboards. The View observes the ViewModel and updates itself when the data changes.
+
+```
+import Foundation
+import UIKit
+
+// Model
+struct User {
+    let name: String
+    let age: Int
+}
+
+// ViewModel
+class UserViewModel {
+    private var user: User
+
+    var name: String {
+        return user.name
+    }
+
+    var ageText: String {
+        return "Age: \(user.age)"
+    }
+
+    init(user: User) {
+        self.user = user
+    }
+}
+
+// View (ViewController)
+class UserViewController: UIViewController {
+    var viewModel: UserViewModel!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Assuming you have labels for name and age in your storyboard
+        nameLabel.text = viewModel.name
+        ageLabel.text = viewModel.ageText
+    }
+}
+```
