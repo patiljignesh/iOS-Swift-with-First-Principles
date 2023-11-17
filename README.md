@@ -210,6 +210,8 @@ In this simple example:
 
 ##  MVVM + data binding using Combine framework
 
+Here we are using MVVM with data binding in Swift, utilizing the Combine framework. This example will expand on the previous one, adding observable properties to the ViewModel and subscribing to these properties in the ViewController
+
 ```
 import UIKit
 import Combine
