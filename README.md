@@ -154,7 +154,7 @@ Snippet of Info:
 7. func myFunction(parameter: DataType) { ... } 
 ```
 
-## Design Pattwr : MVVM 
+## Design Pattern : MVVM 
 
 MVVM (Model-View-ViewModel) is a design pattern used in software development for structuring the code in a way that separates the logic of the user interface from the business logic.
 
