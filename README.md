@@ -2,8 +2,7 @@
 
 ## Topics
 
-###### 
-1. [Auto layout](https://github.com/patiljignesh/iOS-Swift-with-First-Principles/blob/main/Auto%20Layout.md)
+1. [Auto layout] (https://github.com/patiljignesh/iOS-Swift-with-First-Principles/blob/main/Auto%20Layout.md)
 2. [SSL Pinning](https://github.com/SSL%2520Pinning.md)
 3. Using Containers
 4. StackViews
