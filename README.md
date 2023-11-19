@@ -2,25 +2,18 @@
 
 ## Topics
 
-###### Auto layout 
-1. It's about setting rules for the UI elements
-2. Size Classes
-   - Size Classes are at the bottom where all the device at listed   
-4. Orientation
-5. Applying Constraints
-6. Alignment
-7. [SSL Pinning](https://github.com/SSL%2520Pinning.md)
-8. Using Containers
-9. StackViews
+###### 
+1. [Auto layout](https://github.com/patiljignesh/iOS-Swift-with-First-Principles/blob/main/Auto%20Layout.md)
+2. [SSL Pinning](https://github.com/SSL%2520Pinning.md)
+3. Using Containers
+4. StackViews
    - View embeded with other views
-
-10. [MVC](https://github.com/patiljignesh/iOS-Swift-with-First-Principles/blob/main/MVC.md) 
-
-11. Mutating Methods within Struct
+5. [MVC](https://github.com/patiljignesh/iOS-Swift-with-First-Principles/blob/main/MVC.md)
+6. Mutating Methods within Struct
     - Enable changes to the variable within the Struct when invoking 
     - "The problem is that when you create the struct Swift has no idea whether you will use it with constants or variables, so by default it takes the safe approach: Swift won’t let you write methods that change properties unless you specifically request it." ~ HackingWithSwift
 
-12. Setting current Button Title via code:
+7. Setting current Button Title via code:
 `button.setTitle("my text here", forState: .normal)`
 
 13. Rounding off a Float or other value:
