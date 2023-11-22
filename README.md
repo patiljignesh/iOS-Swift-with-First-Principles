@@ -119,6 +119,7 @@ cell.accessoryType = item.done == true ? .checkmark : .none
 
 ## DispatchQueue
 - An object that manages the execution of tasks serially or concurrently on your app's main thread or on a background thread.
+- [More on DispatchQueue](https://github.com/patiljignesh/iOS-Swift-with-First-Principles/blob/main/DispatchQueue.md)
 
 ## UI Element Positioning
 
