@@ -20,11 +20,11 @@ Auto Layout in UIKit is a system that allows developers to create flexible and r
 
 Simple Concepts
 
-	1.	Constraints: The basic building blocks of Auto Layout. They define the size and position of UI elements relative to each other or to their parent views.
+1. Constraints: The basic building blocks of Auto Layout. They define the size and position of UI elements relative to each other or to their parent views.
 	•	Types of Constraints: Include constraints for size (width and height), position (leading, trailing, top, bottom), and relationships (equal width, aspect ratio).
 	•	Creating Constraints: Can be done in Interface Builder (a visual tool in Xcode) or programmatically in Swift.
-	2.	Interface Builder: Allows visually setting up constraints, making it easier to design UIs without writing code. You can control-drag between elements to create constraints and edit their properties in the inspector panel.
-	3.	Stack Views: Simplify layout by arranging views in a linear stack, either horizontally or vertically. You add views to the stack and define the stack’s properties, and it manages the layout of its children.
+2. Interface Builder: Allows visually setting up constraints, making it easier to design UIs without writing code. You can control-drag between elements to create constraints and edit their properties in the inspector panel.
+3. Stack Views: Simplify layout by arranging views in a linear stack, either horizontally or vertically. You add views to the stack and define the stack’s properties, and it manages the layout of its children.
 
 Intermediate Concepts
 
