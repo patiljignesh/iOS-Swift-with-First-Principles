@@ -81,6 +81,9 @@ extension SomeType {
 Eg. localizedDescription is a description which will be displayed in user's local device language which has been set by the user.
 
 27. [weak self]
+
+Understanding weak self in programming, especially in the context of Swift, involves a few concepts related to memory management.
+[let's deep dive]()
    - [Besher Al Maleh on [weak self]](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
    - [Quora: what does [weak self] mean in a closure?](https://www.quora.com/What-does-weak-self-mean-in-a-Swift-Closure)
    - [weak self and unowned self explained by Antoine Van Der Lee](https://www.avanderlee.com/swift/weak-self/)
