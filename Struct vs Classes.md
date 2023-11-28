@@ -32,11 +32,11 @@ car2.model = "Corolla"
 print(car1.model) // Outputs "Corolla"
 '''
 
-	2.	Struct:
-	•	Structs are value types. When you assign a struct instance to a variable or constant, or pass it to a function, it’s actually a copy that’s being passed around.
-	•	Structs do not support inheritance.
-	•	Structs are generally used for smaller, simpler data structures that encapsulate a few values.
-	•	Each instance keeps a unique copy, so changing one won’t affect another.
+2. Struct:
+ - Structs are value types. When you assign a struct instance to a variable or constant, or pass it to a function, it’s actually a copy that’s being passed around.
+ - Structs do not support inheritance.
+ - Structs are generally used for smaller, simpler data structures that encapsulate a few values.
+ - Each instance keeps a unique copy, so changing one won’t affect another.
 Example:
 
 struct Point {
