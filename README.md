@@ -18,7 +18,7 @@
 13. Rounding off a Float or other value:
 `print(String(format: "%.2f", sender.value))`
 
-14. Struct vs Classes
+14. [Struct vs Classes](https://github.com/patiljignesh/iOS-Swift-with-First-Principles/blob/main/Struct%20vs%20Classes.md)
     - Structs are passed around by Value
     - Classes are passed around by Reference
     - Structs are immutable 
