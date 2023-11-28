@@ -8,11 +8,12 @@
 
 In Swift, both class and struct are ways to define custom data types, but they have some key differences:
 
-	1.	Class:
-	•	Classes are reference types. This means when you assign a class instance to a variable or constant, or pass it to a function, you are working with a reference to the same instance.
-	•	Classes can inherit from other classes, meaning they can inherit properties and methods from other classes.
-	•	Classes have deinitializers, which are called when a class instance is deallocated.
-	•	Classes can allow more than one reference to the instance, so changes in one place can affect the instance in another place.
+1. Class:
+ - Classes are reference types. This means when you assign a class instance to a variable or constant, or pass it to a function, you are working with a reference to the same instance.
+ - Classes can inherit from other classes, meaning they can inherit properties and methods from other classes.
+ - Classes have deinitializers, which are called when a class instance is deallocated.
+ - Classes can allow more than one reference to the instance, so changes in one place can affect the instance in another place.
+
 Example:
 
 '''
