@@ -16,7 +16,7 @@ In Swift, both class and struct are ways to define custom data types, but they h
 
 Example:
 
-'''
+```
 class Car {
     var make: String
     var model: String
@@ -31,7 +31,7 @@ let car1 = Car(make: "Toyota", model: "Camry")
 let car2 = car1 // car2 is now a reference to the same instance as car1
 car2.model = "Corolla"
 print(car1.model) // Outputs "Corolla"
-'''
+```
 
 2. Struct:
  - Structs are value types. When you assign a struct instance to a variable or constant, or pass it to a function, it’s actually a copy that’s being passed around.
@@ -40,6 +40,7 @@ print(car1.model) // Outputs "Corolla"
  - Each instance keeps a unique copy, so changing one won’t affect another.
 Example:
 
+```
 struct Point {
     var x: Int
     var y: Int
@@ -50,6 +51,6 @@ var point2 = point1 // point2 is now a copy of point1
 point2.x = 3
 print(point1.x) // Outputs 1
 
-
+```
 
 In summary, use classes when you need complex data structures with inheritance and deinitializers, and use structs for simpler data structures where each instance should
