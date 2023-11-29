@@ -139,5 +139,5 @@ Snippet of Info:
 6. Random Element in an ``` Array = arrayVar.randomElement()
 7. func myFunction(parameter: DataType) { ... } 
 ```
-
+## [Swift Lint](https://github.com/patiljignesh/iOS-Swift-with-First-Principles/blob/main/Swift%20Lint.md)
 
